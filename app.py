@@ -26,14 +26,15 @@ lottie_file = "https://assets9.lottiefiles.com/packages/lf20_ggwq3ysg.json"
 # Main Introduction Section
 with st.container():
     st.subheader("Hello, I'm Moisés Cornetero 👋")
-    st.title("Machine Learning Engineer at Marvik")
+    st.title("Systems and computing engineer")
     st.write(
         """
-        A passionate engineer focused on computer vision, natural language processing, and classical machine learning. 
-        Currently working as an MLE at Marvik, a fast-growing company leading the implementation of AI solutions with business impact.
+        I am a Systems and Computing Engineer, with a tendency towards New Information Technologies, capable of working in a team.
+        With a lot of creativity and initiative, supportive and optimistic, eager to learn, capable of directing and making decisions to generate effectiveness, prepared to work under pressure.
+        Experienced in implementing systems and computing projects, and very easy to adapt to jobs.
         """
     )
-    st.write("[Learn more >](https://github.com/jhonatancamasca)")
+    st.write("[Learn more >](https://github.com/Moantonio)")
 
 # About Section
 with st.container():
@@ -43,12 +44,14 @@ with st.container():
         st.header("About Me")
         st.write(
             """
-            With over 4 years of experience in eCommerce, healthcare, and banking, I specialize in Data Science, ML Engineering, and Data Engineering. My work focuses on computer vision, NLP, and advanced data analytics to solve industry-specific challenges.
-
-            I'm passionate about AI, participating in hackathons, and have won international awards, including an Honorable Mention from NASA.
+            With more than 4 years of experience in the public and private sector.
+            
+            I specialize in the development and implementation of information systems. 
+            
+            My work focuses on optimizing processes through information systems, analysis and providing solutions that solve specific business challenges.
             """
         )
-        st.write("📫 Reach me at: jccamascah@gmail.com")
+        st.write("📫 Reach me at: moises.cornetero@gmail.com")
     with right_column:
         st_lottie(load_lottieurl(lottie_file), height=400)
 
@@ -67,14 +70,13 @@ with st.container():
         st.subheader("Skills and Tools")
         st.write(
             """
-            - Languages & Tools: CSS3, Docker, Git, HTML5, Linux, MySQL, OpenCV, Pandas, PostgreSQL, Python, PyTorch, Scikit-learn, Seaborn, TensorFlow.
-            - Hackathons & Competitions:
-              - 🏆 1st place - BBVA Hackathon 2020 (BBVA)
-              - 🏆 2nd place - Hackathon Creamos Juntos Banco BCP
-              - 🏆 3rd place - Hackathon Belcorp 2.0 (Belcorp)
-              - 🏆 2nd place - NASA Space Apps Lima Hackathon (NASA)
-              - 🏆 NASA Honorable Mention (NASA)
-              - 🏆 IBM Champion 2022 & 2023 (IBM)
+            - Languages & Tools: CSS3, Docker, Git, HTML5, Linux, MySQL, PostgreSQL, SQL Server, Python.
+            - Software Development
+            - IT Service Management
+            - IT Project Management
+            - Business Process Management.
+            - Marketing and E-Commerce
+            - Business Management Systems
             """
         )
 
@@ -84,9 +86,7 @@ with st.container():
     st.header("Publications")
     st.write(
         """
-        📋 Detection of Pathologies in X-Rays Based on a Deep Learning Framework - CIIS Ulima Congreso Internacional de Ingeniería de Sistemas
-
-        📋 Multi-class Vehicle Detection and Automatic License Plate Recognition based on YOLO in Latin American Context - SIMBig 2020.
+        📋   - 2024
         """
     )
 
@@ -96,13 +96,11 @@ with st.container():
     st.header("Education")
     st.write(
         """
-        🎓 Systems Engineer from Universidad ESAN.
+        🎓 Systems and computing Engineer from USAT - Lambayeque.
 
-        🎓 Postgraduate in Artificial Intelligence from Pontificia Universidad Católica de Chile.
+        🎓 Diplomado en Gestión Publica - USMP.
 
-        🎓 Postgraduate in Computer Vision from Universidad Católica San Pablo.
-
-        🎓 Micromaster in Statistics & Data Science from MIT.
+        🎓 Certifiación  en ITIL Foundation – IT Service Management - People Cert
         """
     )
 
