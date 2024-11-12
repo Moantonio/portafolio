@@ -1,0 +1,16 @@
+[theme]
+
+# Primary accent for interactive elements
+primaryColor = '#007acc'  # Azul para acentos
+
+# Background color for the main content area
+backgroundColor = '#1a1a1a'  # Fondo oscuro neutro
+
+# Background color for sidebar and most interactive widgets
+secondaryBackgroundColor = '#333333'  # Gris oscuro para la barra lateral
+
+# Color usado para casi todo el texto
+textColor = '#e0e0e0'  # Gris claro para texto
+
+# Fuente para todo el texto, excepto bloques de código
+font = "sans serif"
